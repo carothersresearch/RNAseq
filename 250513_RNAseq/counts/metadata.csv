@@ -1,0 +1,23 @@
+sampleName,fileName,technical replicates,biological replicates,condition_1,condition_2,condition_3,condition_4,condition_5,condition_6
+Rub-A-1_R1,counts_trimmed_Rub-A-1_R1_001.txt,A_1,A1,control,,control,,,control
+Rub-A-1_R2,counts_trimmed_Rub-A-1_R2_001.txt,A_1,A1,control,,control,,,control
+Rub-A-2_R1,counts_trimmed_Rub-A-2_R1_001.txt,A_2,A2,,control,control,,,control
+Rub-A-2_R2,counts_trimmed_Rub-A-2_R2_001.txt,A_2,A2,,control,control,,,control
+Rub-CO-1_R1,counts_trimmed_Rub-CO-1_R1_001.txt,CO_1,CO,,,,treated,control,treated
+Rub-CO-1_R2,counts_trimmed_Rub-CO-1_R2_001.txt,CO_1,CO,,,,treated,control,treated
+Rub-CO-2_R1,counts_trimmed_Rub-CO-2_R1_001.txt,CO_2,CO,,,,treated,control,treated
+Rub-CO-2_R2,counts_trimmed_Rub-CO-2_R2_001.txt,CO_2,CO,,,,treated,control,treated
+Rub-CO-3_R1,counts_trimmed_Rub-CO-3_R1_001.txt,CO_3,CO,,,,treated,control,treated
+Rub-CO-3_R2,counts_trimmed_Rub-CO-3_R2_001.txt,CO_3,CO,,,,treated,control,treated
+Rub-H2-1_R1,counts_trimmed_Rub-H2-1_R1_001.txt,H2_1,H2,treated,treated,treated,control,,control
+Rub-H2-1_R2,counts_trimmed_Rub-H2-1_R2_001.txt,H2_1,H2,treated,treated,treated,control,,control
+Rub-H2-2_R1,counts_trimmed_Rub-H2-2_R1_001.txt,H2_2,H2,treated,treated,treated,control,,control
+Rub-H2-2_R2,counts_trimmed_Rub-H2-2_R2_001.txt,H2_2,H2,treated,treated,treated,control,,control
+Rub-H2-3_R1,counts_trimmed_Rub-H2-3_R1_001.txt,H2_3,H2,treated,treated,treated,control,,control
+Rub-H2-3_R2,counts_trimmed_Rub-H2-3_R2_001.txt,H2_3,H2,treated,treated,treated,control,,control
+Rub-S-1_R1,counts_trimmed_Rub-S-1_R1_001.txt,S_1,S,,,,,treated,
+Rub-S-1_R2,counts_trimmed_Rub-S-1_R2_001.txt,S_1,S,,,,,treated,
+Rub-S-2_R1,counts_trimmed_Rub-S-2_R1_001.txt,S_2,S,,,,,treated,
+Rub-S-2_R2,counts_trimmed_Rub-S-2_R2_001.txt,S_2,S,,,,,treated,
+Rub-S-3_R1,counts_trimmed_Rub-S-3_R1_001.txt,S_3,S,,,,,treated,
+Rub-S-3_R2,counts_trimmed_Rub-S-3_R2_001.txt,S_3,S,,,,,treated,
