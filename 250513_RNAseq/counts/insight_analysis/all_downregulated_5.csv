@@ -1,0 +1,2 @@
+Locus_Tag,Protein Name,KO_IDs_list,log2FC,KEGG_Pathways_list,Tags_list,Subcategories,Confidence_Score,Notes
+BFJEKD_11595,Pyridoxal reductase PdxI / Aldo/keto reductase family protein,,-1.47359417522923,,"oxidoreductase, aldo/keto reductase family, vitamin B6 metabolism",['Secretion & Transport Systems'],Medium,EC number inferred from typical function of aldo/keto reductase family; no KO or GO terms available.

@@ -1,0 +1,2 @@
+Locus_Tag,Protein Name,KO_IDs_list,log2FC,KEGG_Pathways_list,Tags_list,Subcategories,Confidence_Score,Notes
+BFJEKD_14640,Dihydroxyacetone kinase subunit DhaK,K05878,1.40928160060593,"Glycolysis / Gluconeogenesis, Citrate cycle (TCA cycle)","kinase, dihydroxyacetone metabolism, carbohydrate metabolism, phosphotransferase",['Polyhydroxyalkanoates & Storage Lipids'],High,"Complete annotation with KO, EC, GO, COG, and PFAM domains. Important for carbohydrate metabolism pathways."
